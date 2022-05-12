@@ -34,4 +34,7 @@ fim.  <br>
   Para isso, o código consulta um dicionário de Instruções e Mnemônicos apresentados abaixo para saber o que irá retornar. 
   
   ![image](https://user-images.githubusercontent.com/82849005/168155389-9833ca21-8233-466a-b118-5ec3e46ebabc.png)
+  
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+
 
